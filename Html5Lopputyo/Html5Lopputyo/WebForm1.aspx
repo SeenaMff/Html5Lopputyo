@@ -102,21 +102,21 @@
     <div class="col-sm-4">
       
       <a href="#demo" data-toggle="collapse">
-        <img src="PFveneet.jpg" class="img-circle person" alt="terassi" width="255" height="255">
+         <img src="PFveneet.jpg" class="img-responsive img-circle margin" style="display:inline" alt="Veneet" width="350" height="350">
       </a>
      
     </div>
     <div class="col-sm-4">
       
       <a href="#demo2" data-toggle="collapse">
-        <img src="PFveneet.jpg" class="img-circle person" alt="pf3" width="255" height="255">
+         <img src="PF3.jpg" class="img-responsive img-circle margin" style="display:inline" alt="Veneet" width="350" height="350">
       </a>
      
     </div>
     <div class="col-sm-4">
       
       <a href="#demo3" data-toggle="collapse">
-        <img src="PFveneet.jpg" class="img-circle person" alt="kansi" width="255" height="255">
+         <img src="PFkansi.jpg" class="img-responsive img-circle margin" style="display:inline" alt="Veneet" width="350" height="350">
       </a>
       
     </div>
